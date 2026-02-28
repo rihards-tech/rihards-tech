@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Rihards 👋
 
-<!--
-**rihards-tech/rihards-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer focused on building modern web applications with React.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Currently working on
+- Building React-based applications and modern frontend architectures
+- Developing responsive and scalable web interfaces
+
+---
+
+## 🛠 Tech Stack
+- JavaScript (ES6+)
+- React
+- HTML5 & CSS3
+
+---
+
+## 🔧 Tools
+- Git
+- GitHub
+- VS Code
+- Figma
+  
+---
+
+## 🧩 A bit About Me
+
+- Focused on long-term growth in frontend development  
+- Value clean code and well-structured architecture  
+- Interested in scalable applications and modern UI patterns  
+- Committed to continuous improvement
+
+---
+
+## 📫 Contact
+- Telegram: https://t.me/hazertyt
